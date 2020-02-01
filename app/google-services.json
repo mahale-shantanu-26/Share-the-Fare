@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "582071255548",
+    "firebase_url": "https://share-the-fare.firebaseio.com",
+    "project_id": "share-the-fare",
+    "storage_bucket": "share-the-fare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582071255548:android:011465850e94fb99",
+        "android_client_info": {
+          "package_name": "com.sharethefare.sharethefare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582071255548-de2mo2t22ckpknh53cidqd2b2t5vn5t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedZdNQPh7tHAE34Ikd09nsZNRIh5HaTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
